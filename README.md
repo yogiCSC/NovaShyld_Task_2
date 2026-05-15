@@ -96,3 +96,10 @@ nikto -h http://192.168.199.129
 
 ## Report
 [Download Report](./Task-2%20Vulnerability%20Assessment%20Report.pdf)
+
+---
+---
+
+## Conclusion
+
+This task provided practical knowledge of vulnerability scanning and service enumeration using Nmap and Nikto. Multiple open ports and vulnerable services were identified successfully on the Metasploitable2 machine, improving understanding of reconnaissance and vulnerability assessment techniques.
