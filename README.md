@@ -1,5 +1,11 @@
 # Task-2: Vulnerability Scanning & Service Enumeration
 
+## Student Details
+- Name: Kalisetti Yogeswari
+- Internship: Ethical Hacking & Penetration Testing Internship
+- Course: B.Tech CSE (Cyber Security)
+
+---
 ## Objective
 The objective of this task is to perform vulnerability scanning and service enumeration on the Metasploitable2 virtual machine using Kali Linux and Nmap. This task helps in identifying open ports, active services, operating system details, and potential vulnerabilities in a controlled penetration testing environment.
 
